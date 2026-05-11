@@ -1,0 +1,7 @@
+- [ ] Basics of C
+- [ ] Control Statements
+- [ ] **==Functions and Recursions==**
+- [ ] ==**Concepts of Pointers**==
+- [ ] Strings
+- [ ] Structure & Union
+- [ ] File Handling

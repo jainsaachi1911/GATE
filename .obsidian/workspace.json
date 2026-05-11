@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "668691de6bae15cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba2fb33607569550",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "26134db5f6b0548c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C Programming/Study Plan.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Study Plan"
+            }
+          },
+          {
+            "id": "0fd02bf2bf5c319c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C Programming/Basics of C Programming.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Basics of C Programming"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0fe057ee6008f6e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "1747ab3b72722012",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e5e2a6ec20b37ce1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "738e2b3954949c6a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "44402a308ddd8357",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3707e0927b2e0eac",
+    "type": "split",
+    "children": [
+      {
+        "id": "0560afaff816eee3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "277475e7c97f461f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "C Programming/Basics of C Programming.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Basics of C Programming"
+            }
+          },
+          {
+            "id": "6ce7dfc5adafd1e1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "C Programming/Basics of C Programming.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Basics of C Programming"
+            }
+          },
+          {
+            "id": "e8323fdff6aaf3cf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "539546f9d854ccde",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "da4db99b767f6302",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "C Programming/Basics of C Programming.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Basics of C Programming"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "0fd02bf2bf5c319c",
+  "lastOpenFiles": [
+    "C Programming/Study Plan.md",
+    "C Programming/Basics of C Programming.md",
+    "Pasted image 20260511170554.png",
+    "Pasted image 20260511170455.png",
+    "GATE Timeline.md",
+    "Pasted image 20260511170405.png",
+    "Pasted image 20260511170339.png",
+    "Pasted image 20260511170319.png",
+    "Pasted image 20260511170226.png",
+    "Pasted image 20260511170204.png",
+    "Pasted image 20260511170140.png",
+    "Pasted image 20260511170110.png",
+    "Pasted image 20260511170030.png",
+    "Welcome.md",
+    "C Programming",
+    "create a link.md"
+  ]
+}
