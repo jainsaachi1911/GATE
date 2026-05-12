@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "Study Plan"
             }
-          },
-          {
-            "id": "0fd02bf2bf5c319c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C Programming/Basics of C Programming.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Basics of C Programming"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3707e0927b2e0eac",
@@ -109,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C Programming/Basics of C Programming.md",
+                "file": "C Programming/Study Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Basics of C Programming"
+              "title": "Backlinks for Study Plan"
             }
           },
           {
@@ -128,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C Programming/Basics of C Programming.md",
+                "file": "C Programming/Study Plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Basics of C Programming"
+              "title": "Outgoing links from Study Plan"
             }
           },
           {
@@ -171,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C Programming/Basics of C Programming.md",
+                "file": "C Programming/Study Plan.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Basics of C Programming"
+              "title": "Outline of Study Plan"
             }
           }
         ]
@@ -198,13 +184,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "e5e2a6ec20b37ce1",
+  "active": "26134db5f6b0548c",
   "lastOpenFiles": [
+    "C Programming/C Programming Notes.md",
+    "C Programming/Study Plan.md",
+    "GATE Timeline.md",
+    "2026-05-11.md",
+    "Untitled.base",
+    "Untitled.canvas",
     "Assets",
     "Assets/Pasted image 20260511165843.png",
-    "C Programming/Basics of C Programming.md",
     "Assets/Pasted image 20260511172159.png",
-    "GATE Timeline.md",
     "Assets/Pasted image 20260511170554.png",
     "Assets/Pasted image 20260511170455.png",
     "Assets/Pasted image 20260511170405.png",
@@ -214,7 +204,6 @@
     "Assets/Pasted image 20260511170204.png",
     "Assets/Pasted image 20260511170140.png",
     "Assets",
-    "C Programming/Study Plan.md",
     "Welcome.md",
     "C Programming",
     "create a link.md"

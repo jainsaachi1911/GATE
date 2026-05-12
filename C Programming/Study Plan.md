@@ -1,4 +1,4 @@
-- [ ] Basics of C
+- [x] Basics of C
 - [ ] Control Statements
 - [ ] **==Functions and Recursions==**
 - [ ] ==**Concepts of Pointers**==
