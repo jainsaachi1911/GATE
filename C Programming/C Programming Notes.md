@@ -151,16 +151,16 @@ if (x == 3)
 > [!NOTE] Is Sizeof a function in C?
 > No, Sizeof is not a function, Its an Operator.
 
-| Data Type           | Bytes |
-| ------------------- | ----- |
-| int x;<br>sizeof(x) | 4     |
-| sizeof(int)         | 4     |
-| sizeof(5)           | 4     |
-| sizeof(char)        | 1     |
-| sizeof(short int)   | 2     |
-| sizeof(float)       | 4     |
-| sizeof(double)      | 8     |
-| sizeof(long double) | 16    |
+| Data Type               | Bytes |
+| ----------------------- | ----- |
+| `int x;`<br>`sizeof(x)` | 4     |
+| `sizeof(int)`           | 4     |
+| `sizeof(5)`             | 4     |
+| `sizeof(char)`          | 1     |
+| `sizeof(short int)`     | 2     |
+| `sizeof(float)`         | 4     |
+| `sizeof(double)`        | 8     |
+| `sizeof(long double)`   | 16    |
 
 #### TypeCasting
 
@@ -268,4 +268,62 @@ int main()
 ### Do While Loop
 
 The body of the loop is executed atleast once before the test expression is evaluated.
+
+``` c
+int main()
+{
+	int n = 1;
+	do
+	{
+		printf("%d", n); // 1 2 3 4 5  
+		n = n + 1; // 2 3 4 5 6
+	}
+	while(n <= 5)
+}
+```
+
+____
+### Break and Continue
+
+| Statement  | What it does?                                               |
+| ---------- | ----------------------------------------------------------- |
+| `break`    | Immediately exits the loop                                  |
+| `continue` | Skips the current iteration and moves to the next iteration |
+
+``` c
+int main()
+{
+	for(int i = 1; i <= 6; i++)
+	{
+		if(i == 5)
+		{
+			break;
+		}
+		printf("%d", i); // 1 2 3 4
+	}
+	return 0;
+}
+```
+
+When `i` becomes `5`, `break` stops the loop completely.
+
+``` c
+int main()
+{
+	for(int i = 1; i <= 6; i++)
+	{
+		if(i == 3)
+		{
+			continue;
+		}
+		printf("%d", i); // 1 2 4 5 6
+	}
+	return 0;
+}
+```
+
+- When `i` is `3`, `continue` skips that iteration only.
+- The loop continues with `4` ,`5` and `6`.
+___
+## Storage Classes
 
